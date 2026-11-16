@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Knowledge Filesystem Agents](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/knowledge-filesystem-agents)
+[![Download Knowledge Filesystem Agents](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/w7PUMz8pWigaYYvDO)
 
 </div>
 
@@ -143,7 +143,7 @@
 
 <div align="center">
 
-[![Download Knowledge Filesystem Agents](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/knowledge-filesystem-agents)
+[![Download Knowledge Filesystem Agents](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/w7PUMz8pWigaYYvDO)
 
 </div>
 
@@ -356,7 +356,7 @@ Organize your messy files with AI for free. **Knowledge Filesystem Agents Update
 
 <div align="center">
 
-[![Download Knowledge Filesystem Agents](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/knowledge-filesystem-agents)
+[![Download Knowledge Filesystem Agents](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/w7PUMz8pWigaYYvDO)
 
 **Version 2.1.0** — Free AI file management software. May 2026 update. Zero cost. No payment.
 
